@@ -1,0 +1,9 @@
+#goal definition
+merbots_whrov_msgs/movement order
+---
+#result definition
+bool success
+---
+#feedback
+string message
+uint32 percent_complete

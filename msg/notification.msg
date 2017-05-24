@@ -1,0 +1,3 @@
+bool processing_order
+bool last_order_failed
+position position
