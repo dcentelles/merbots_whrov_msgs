@@ -16,7 +16,9 @@ find_package(catkin REQUIRED COMPONENTS
 
 add_action_files(
   DIRECTORY action
-  FILES MoveOrder.action
+  FILES 
+	MoveOrder.action 
+	Order.action
 )
 
 ## Declare ROS messages and services

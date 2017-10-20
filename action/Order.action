@@ -1,0 +1,13 @@
+#goal definition
+uint32 type  #0: hold channel
+	     #1: keep heading
+
+uint32 hold_channel_duration
+uint32 keep_heading_degrees
+---
+#result definition
+bool success
+---
+#feedback
+string message
+uint32 percent_complete
