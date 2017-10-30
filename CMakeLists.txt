@@ -28,6 +28,7 @@ add_message_files(DIRECTORY msg FILES
         protocol_settings.msg
         movement.msg
         position.msg
+	state.msg
         )
 
 
