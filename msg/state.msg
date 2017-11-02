@@ -3,4 +3,6 @@ int32 altitude
 float32 roll
 float32 pitch
 bool keepingHeading
+int32 navMode
+bool armed
 
