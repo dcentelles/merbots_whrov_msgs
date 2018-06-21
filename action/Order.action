@@ -6,6 +6,9 @@ uint32 hold_channel_duration
 uint32 keep_heading_degrees
 image_settings image_config
 protocol_settings protocol_config
+float64 x
+float64 y
+float64 depth
 ---
 #result definition
 bool success

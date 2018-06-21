@@ -5,4 +5,5 @@ float32 pitch
 bool keepingHeading
 int32 navMode
 bool armed
-
+int32 x
+int32 y
