@@ -29,6 +29,7 @@ add_message_files(DIRECTORY msg FILES
         movement.msg
         position.msg
 	state.msg
+	debug.msg
         )
 
 
